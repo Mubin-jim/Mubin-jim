@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mubin-jim
+- 👋 Hi, I’m EMAMIM MUBIN KHAN JIM 
 - 👀 I’m interested in programming and coding 
 - 🌱 I’m currently learning competitive coding 
 - 💞️ I’m looking to collaborate on it
